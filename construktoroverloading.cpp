@@ -14,6 +14,9 @@ class mahasiswa{
     void cetak();
 };
 
+mahasiswa::mahasiswa(){
+}
+
 int main (){
 
 }
