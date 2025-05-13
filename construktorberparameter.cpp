@@ -17,6 +17,8 @@ mahasiswa::mahasiswa(int nim, string nama){
 
 int main ()
 {
-    
+    //Memanggil construktor dengan parameter
+    mahasiswa mhs(12345, "pascal");
+    return 0;
 
 }
