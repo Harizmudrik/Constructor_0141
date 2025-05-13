@@ -21,8 +21,8 @@ mahasiswa::mahasiswa(int iNim){
     nim = iNim; //definisi hanya nim
 }
 
-mahasiswa::mahasiswa(int iNama){
-    nim = iNama; //definisi hanya nama
+mahasiswa::mahasiswa(string iNama){
+    nama = iNama; //definisi hanya nama
 }
 
 int main (){
