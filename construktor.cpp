@@ -13,5 +13,7 @@ mahasiswa::mahasiswa(){
 
 int main ()
 {
+    mahasiswa mhs; //Pembuatan Object
+    return 0;
 
 }
