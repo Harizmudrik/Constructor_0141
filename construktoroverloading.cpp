@@ -25,6 +25,12 @@ mahasiswa::mahasiswa(string iNama){
     nama = iNama; //definisi hanya nama
 }
 
+mahasiswa::mahasiswa(int iNim, string iNama){
+    nim = iNim;
+    nama = iNama;
+}
+
+
 int main (){
 
 }
